@@ -13,10 +13,10 @@ BT/Openreach engages with various corporate Civil Suppliers for any Civil Work r
 | Review & Rate supplier upon completion of engagement. | Review & Rate business upon completion of engagement.|
 
 ## System Architecture
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide22.JPG)
+![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide22.jpg)
 
 ## Technology Stack
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide21.JPG)
+![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide21.jpg)
 
 ## UI- Screens
 
