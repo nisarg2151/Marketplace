@@ -13,10 +13,10 @@ BT/Openreach engages with various corporate Civil Suppliers for any Civil Work r
 | Review & Rate supplier upon completion of engagement. | Review & Rate business upon completion of engagement.|
 
 ## System Architecture
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide22.jpg)
+![](/Marketplace/assets/images/Slide22.jpg)
 
 ## Technology Stack
-![](Marketplace/assets/images/Slide21.jpg)
+![](/Marketplace/assets/images/Slide21.jpg)
 
 ## UI- Screens
 
@@ -26,30 +26,30 @@ BT/Openreach engages with various corporate Civil Suppliers for any Civil Work r
 
 2. Suppliers Dashboard
 
-![](/assets/images/Slide11.JPG)
+![](/Marketplace/assets/images/Slide11.JPG)
 
 3. Suppliers My Bids
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide12.JPG)
+![](/Marketplace/assets/images/Slide12.JPG)
 
 4. Supplier > Bids (Supplier can bid or rebid a project in this window)
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide13.JPG)
+![](/Marketplace/assets/images/Slide13.JPG)
 
 5. Business Dashboard
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide14.JPG)
+![](/Marketplace/assets/images/Slide14.JPG)
 
 6. Business > My Jobs
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide15.JPG)
+![](/Marketplace/assets/images/Slide15.JPG)
 
 7. Business > Job in detail with status (Materials Tab)
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide16.JPG)
+![](/Marketplace/assets/images/Slide16.JPG)
 
 8. Business > Job in detail with status (Documents Tab)
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide17.JPG)
+![](/Marketplace/assets/images/Slide17.JPG)
 
 ## Thank You
