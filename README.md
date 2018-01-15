@@ -16,17 +16,17 @@ BT/Openreach engages with various corporate Civil Suppliers for any Civil Work r
 ![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide22.jpg)
 
 ## Technology Stack
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide21.jpg)
+![](Marketplace/assets/images/Slide21.jpg)
 
 ## UI- Screens
 
 1. Home Page > Log In/Sign Up
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide10.JPG)
+![](/Marketplace/assets/images/Slide10.JPG)
 
 2. Suppliers Dashboard
 
-![](https://github.com/nisarg2151/Marketplace/blob/master/assets/images/Slide11.JPG)
+![](/assets/images/Slide11.JPG)
 
 3. Suppliers My Bids
 
