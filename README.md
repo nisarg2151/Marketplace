@@ -15,7 +15,7 @@ BT/Openreach engages with various corporate Civil Suppliers for any Civil Work r
 ## System Architecture
 ![](https://guides.github.com/activities/hello-world/branching.png)
 ## Technology Stack
-![]({{ site.baseurl }}/assets/images/Slide22.JPG)
+![](/assets/images/Slide22.JPG)
 
 ## UI- Screens
 1. Home Page – Log In/Sign Up
