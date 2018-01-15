@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Problem Statement
+BT/Openreach engages with various corporate Civil Suppliers for any Civil Work required during the provisioning journey or strategic expansion into newer areas. These suppliers in turn sub contracts various small to medium level suppliers for completing the work for which OR has to pay a premium to their corporate supplier. So if there can be a central marketplace platform which can felicitate the engagement directly between Businesses and Suppliers that can help both the parties do business more openly and fluently.  The same platform should be generic & expandable to accommodate other 3rd party engagements as well as be open to businesses other then BT/Openreach.
 
-You can use the [editor on GitHub](https://github.com/nisarg2151/Marketplace/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Features
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+| Business                                                          | Supplier                                                        |
+|:------------------------------------------------------------------|:----------------------------------------------------------------|
+| View the list of suppliers and filter based on various criteria like Skills, Geo Area, Rates etc.| Create a work-type rate catalogue(optionally rates can be private by default and made available only to a specific vendor|
+| Create a work job on system with various parameters like type, category, requirements etc.|Get notified when a new work job requirement matching his catalogue profile is posted by business.| 
+| Check vendor availability.                                       | Bid for a available public jobs.| 
+| Trace the progress of the job.           | Progress a assigned job and update status as per defined milestone.|
+| Amend some aspects of a job on need basis.| Accept/Reject or Request Amend a job.|
+| Review & Rate supplier upon completion of engagement. | Review & Rate business upon completion of engagement.|
 
-### Markdown
+## System Architecture
+![](https://guides.github.com/activities/hello-world/branching.png)
+## Technology Stack
+![](https://guides.github.com/activities/hello-world/branching.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## UI- Screens
+1. Home Page – Log In/Sign Up
+![](https://guides.github.com/activities/hello-world/branching.png)
+2. Suppliers Dashboard
+![](https://guides.github.com/activities/hello-world/branching.png)
+3. Suppliers – My Bids
+4. Supplier – Bids (Supplier can bid or rebid a project in this window)
+5. Business Dashboard
+6. Business – My Jobs
+7. Business > Job in detail with status (Materials Tab)
+8. Business> Job in detail with status (Documents Tab)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nisarg2151/Marketplace/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thank You
